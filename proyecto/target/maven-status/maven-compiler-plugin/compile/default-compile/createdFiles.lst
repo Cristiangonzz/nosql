@@ -1,0 +1,11 @@
+utu/nosql/proyecto/dominio/Paciente.class
+utu/nosql/proyecto/controladores/PacienteController.class
+utu/nosql/proyecto/dominio/DTO/PacienteDTO.class
+utu/nosql/proyecto/controladores/swagger/SwaggerConfig.class
+utu/nosql/proyecto/dominio/DTO/ResponseDTO.class
+utu/nosql/proyecto/config/WebConfig.class
+utu/nosql/proyecto/dominio/RegistroMedico.class
+utu/nosql/proyecto/service/PacienteService.class
+utu/nosql/proyecto/dominio/DTO/RegistroMedicoDTO.class
+utu/nosql/proyecto/ProyectoApplication.class
+utu/nosql/proyecto/repositorios/PacienteRepository.class

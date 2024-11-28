@@ -1,0 +1,11 @@
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/ProyectoApplication.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/config/WebConfig.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/controladores/PacienteController.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/controladores/swagger/SwaggerConfig.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/dominio/DTO/PacienteDTO.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/dominio/DTO/RegistroMedicoDTO.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/dominio/DTO/ResponseDTO.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/dominio/Paciente.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/dominio/RegistroMedico.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/repositorios/PacienteRepository.java
+/home/cgonzalez/Documentos/noSQL/proyecto/src/main/java/utu/nosql/proyecto/service/PacienteService.java
